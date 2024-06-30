@@ -12,7 +12,7 @@ This is an end to end LLM project based on Google Palm and Langchain. We are bui
 - We will build an LLM based question and answer system that can reduce the workload of their human staff.
 - Students should be able to use this system to ask questions directly and get answers within seconds
 
-## You will learn following,
+## The following were executed:
   - Langchain + Google Palm: LLM based Q&A
   - Streamlit: UI
   - Huggingface instructor embeddings: Text embeddings
@@ -20,15 +20,15 @@ This is an end to end LLM project based on Google Palm and Langchain. We are bui
 
 ## Installation
 
-1.Clone this repository to your local machine using:
+1.Clone this repository to local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/manasamrit/LLM.git
 ```
 2.Navigate to the project directory:
 
 ```bash
-  cd 3_project_codebasics_q_and_a
+  cd Google%20Palm
 ```
 3. Install the required dependencies using pip:
 
@@ -52,9 +52,9 @@ streamlit run main.py
 
 - To create a knowledebase of FAQs, click on Create Knolwedge Base button. It will take some time before knowledgebase is created so please wait.
 
-- Once knowledge base is created you will see a directory called faiss_index in your current folder
+- Once knowledge base is created, a directory called faiss_index in the current folder
 
-- Now you are ready to ask questions. Type your question in Question box and hit Enter
+- Now it's to ask questions. Type a question in Question box and hit Enter
 
 ## Sample Questions
   - Do you guys provide internship and also do you offer EMI payments?
